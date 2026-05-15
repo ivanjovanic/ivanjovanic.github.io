@@ -8,6 +8,6 @@ Product designer and indie maker building AI and web products.
 - [Aplauz Apps](https://aplauz.co)
 - [MenHair App](https://menhair.app) — The best AI hairstyle try-on for men
 - [Twitter / X](https://x.com/ijo77777)
-- [LinkedIn]([https://linkedin.com/in/your-profile](https://linkedin.com/in/ivanjovanic))
+- [LinkedIn](https://linkedin.com/in/ivanjovanic)
 
 ---
